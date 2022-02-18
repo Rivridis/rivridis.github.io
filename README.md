@@ -1,2 +1,2 @@
 # rivridis.github.io
-Rivridis Website
+Welcome to my website!
