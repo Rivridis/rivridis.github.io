@@ -1,74 +1,24 @@
-* {
-    padding: 0px;
-    margin: 0px
-}
-body{
-    background-color: rgb(255, 255, 255);
-}
-.card1{
-    background-color: rgb(255, 255, 255);
-    width: 100%;
-    height: 97%;
-}
-.card2{
-    background-color: rgb(236, 234, 234);
-    width: 100%;
-    height: 100%;
-}
-.card3{
-    background-color: rgb(255, 255, 255);
-    width: 100%;
-    height: 100%;
-}
-.card1 .nav .logo{
-    display: flex;
-    float: left;
-    width: 40%;
-    height: 8%;
-    background-color: rgb(51, 51, 51);
-}
-.card1 .nav .logo p{
-    color: aliceblue;
+.headbar{
+    background-image: url("E:/GitHub/GitHub/Images/Banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+.headbar p{
     font-size: larger;
-    padding: 10px;
-    transition: 0.3s;
 }
-.card1 .nav .lnk{
-    float: left;
-    width: 60%;
-    height: 8%;
-    background-color: rgb(51, 51, 51);
+.ch h1{
+    font-size: xx-large;
 }
-ul.topnav {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-  }
-  
-  ul.topnav li {float: left;}
-  
-  ul.topnav li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
-  
-  ul.topnav li a:hover:not(.active) {background-color: #111;}
-  
-  ul.topnav li a.active {background-color: #04AA6D;}
-  
-  ul.topnav li.right {float: right;}
-  
-  @media screen and (max-width: 600px) {
-    ul.topnav li.right, 
-    ul.topnav li {float: none;}
-    .card1 .nav .logo{justify-content: center;}
-    .card1 .nav .logo{float: none;}
-    .card1 .nav .logo{width: 100%;}
-    .card1 .nav .lnk{width: 100%}
-
-  }
+.ch p{
+    font-size: large;
+}
+.su p{
+    font-size: x-large;
+}
+.su h3{
+    font-size: xx-large;
+}
+.sul img{
+    margin: auto;    
+    display: block
+}
