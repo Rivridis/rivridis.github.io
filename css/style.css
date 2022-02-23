@@ -2,6 +2,7 @@
     background-image: url("https://github.com/Rivridis/rivridis.github.io/blob/main/images/bnr.jpeg?raw=true");
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
     }
 .headbar p{
     font-size: larger;
